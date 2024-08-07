@@ -19,6 +19,5 @@ I'm a passionate and detail-oriented cybersecurity enthusiast with a strong focu
 - **[BMI Calculator](https://github.com/Reegan-758/bmi-calculator)**: A tool for calculating Body Mass Index (BMI) with both command-line and GUI options.
 
 ## 📫 Contact Me
-## 📫 Contact Me
 - **Email**: reeganaakish@gmail.com
 - **LinkedIn**: [linkedin.com/in/Reegan Aakish](www.linkedin.com/in/reegan-aakish-c-690a12232)
