@@ -17,6 +17,7 @@ I'm a passionate and detail-oriented cybersecurity enthusiast with a strong focu
 - **[Firewall Configuration using UFW](https://github.com/Reegan-758/ufw-firewall-configuration)**: Built and configured a firewall on Ubuntu.
 - **[Password Generator](https://github.com/Reegan-758/password-generator)**: Includes both command-line and GUI versions for generating random passwords based on user-defined criteria.
 - **[BMI Calculator](https://github.com/Reegan-758/bmi-calculator)**: A tool for calculating Body Mass Index (BMI) with both command-line and GUI options.
+- To-Do List Application: Developed a feature-rich To-Do List application with a user-friendly interface, allowing users to add, edit, and manage tasks efficiently.
 
 ## 📫 Contact Me
 - **Email**: reeganaakish@gmail.com
