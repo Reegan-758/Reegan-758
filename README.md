@@ -21,4 +21,4 @@ I'm a passionate and detail-oriented cybersecurity enthusiast with a strong focu
 
 ## 📫 Contact Me
 - **Email**: reeganaakish@gmail.com
-- **LinkedIn**: [linkedin.com/in/Reegan Aakish](www.linkedin.com/in/reegan-aakish-c-690a12232)
+- **LinkedIn**: [Reegan Aakish](https://www.linkedin.com/in/reegan-aakish-c-690a12232)
